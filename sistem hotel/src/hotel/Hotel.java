@@ -9,7 +9,7 @@ package hotel;
  * @author chipto
  */
 public class Hotel {
-
+ 
     /**
      * @param args the command line arguments
      */
